@@ -37,10 +37,10 @@ A complete log of my web development skills, learning, resources, highlights, in
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![In Progress][In Progress] | 2019 | [The Full JavaScript & ES6 Tutorial - (including ES7 & React)]   | [David Joseph Katz]                         |
-| ![In Progress][In Progress]      | 2019 | [React Router and Redux]                                   | [Microsoft] - Edx Course              |
 | ![In Progress][In Progress]      | 2019 | [React - The Complete Guide]                                   | [Maximilian Schwarzmüller]              |
 | ![In Progress][In Progress]      | 2019 | [Introduction to Linux]                                   | [Linux Foundation] - Edx Course              |
 | ![In Progress][In Progress]      | 2019 | [Responsive Web Design Certification - Freecodecamp]                                   | Freecodecamp             |
+| ![Completed][Completed]      | 2019 | [React Router and Redux]                                   | [Microsoft] - Edx Course              |
 | ![Completed][Completed]     | 2019 | [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge - Freecodecamp]                            | Freecodecamp            |
 | ![Completed][Completed]     | 2018 | [Portfolio website with React Router v4 and Material design]                            | Paul Hanna          |
 | ![Completed][Completed]     | 2018 | [Data Structures and Algorithms in JavaScript - Full Course for Beginners]                            | Freecodecamp           |
