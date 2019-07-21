@@ -43,42 +43,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
+| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |                          |
 
 [//]: # (Reference links to courses)
 
 [The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 [The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
 
@@ -90,7 +59,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 I'm currently interested in/excited about:
 
 + React
++ Redux
 + JavaScript best practice
++ Scrum management
 
 ----
 
